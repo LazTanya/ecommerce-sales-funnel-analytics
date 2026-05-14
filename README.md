@@ -1,3 +1,2 @@
-# sql-analytics-project
------
--
+# ecommerce-revenue-leakage-analysis
+

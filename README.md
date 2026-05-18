@@ -93,7 +93,8 @@ Instead of visualizing 9,000+ raw event records, I developed an optimized SQL qu
 
 The dashboard tracks Daily Unique Users; a user visiting on three separate days is counted once per day. This trade-off between monthly 'Unique' precision and daily 'Trend' granularity is standard practice in professional BI to maintain dashboard speed and filtering flexibility.
 
-[https://public.tableau.com/views/E-COmmerceConversionFunnel/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+🔗 **Live Dashboard:** [https://public.tableau.com/views/E-COmmerceConversionFunnel/Dashboard1](https://public.tableau.com/views/E-COmmerceConversionFunnel/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ![E-Commerce Funnel Dashboard](dashboard/dashboard.png)
 ---
 
